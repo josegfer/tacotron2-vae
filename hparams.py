@@ -25,7 +25,7 @@ def create_hparams(hparams_string=None, verbose=False):
         load_mel_from_disk=False,
         training_files='filelists/emotional_train.txt',
         validation_files='filelists/emotional_val.txt',
-        text_cleaners=['korean_cleaners'], # english_cleaners, korean_cleaners
+        text_cleaners=['english_cleaners'], # english_cleaners, korean_cleaners
         sort_by_length=False,
 
         ################################
@@ -43,7 +43,7 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         # Model Parameters             #
         ################################
-        n_symbols = 80, # set 80 if u use korean_cleaners. set 65 if u use english_cleaners
+        n_symbols = 65, # set 80 if u use korean_cleaners. set 65 if u use english_cleaners
         symbols_embedding_dim=512,
 
         # Transcript encoder parameters
@@ -52,12 +52,12 @@ def create_hparams(hparams_string=None, verbose=False):
         encoder_embedding_dim = 512,
 
         # Speaker embedding parameters
-        n_speakers = 1,
+        n_speakers = 10,
         speaker_embedding_dim=16,
 
         # ---------------------------------------- #
         # emotion 
-        n_emotions = 4, # number of emotion labels
+        n_emotions = 5, # number of emotion labels
         emotion_embedding_dim=16,
 
         # reference encoder

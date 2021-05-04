@@ -1,0 +1,318 @@
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Neutral/0011_000030.wav|Must a name mean something?|0|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Neutral/0011_000049.wav|Then we all say aha!|0|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Neutral/0011_000080.wav|Then there was a report.|0|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Neutral/0011_000099.wav|I've hit the wrong nose.|0|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Neutral/0011_000113.wav|Mister lawson saw george last night.|0|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Neutral/0011_000206.wav|Still you owe it a duty.|0|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Angry/0011_000351.wav|The nine the eggs, I keep.|0|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Angry/0011_000384.wav|A divine wrath made her blue eyes awful.|0|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Angry/0011_000395.wav|The nastiest things they saw were the cobwebs.|0|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Angry/0011_000400.wav|Rabbit gave dog a hurrying up sort of nudge.|0|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Angry/0011_000448.wav|Said the witch.|0|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Angry/0011_000533.wav|Fresh pain seized Paul's body.|0|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Happy/0011_000723.wav|I thought you meant how old are you?|0|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Happy/0011_000786.wav|A tick a tack too.|0|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Happy/0011_000788.wav|In my opinion that is a good idea!|0|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Happy/0011_000813.wav|Mister lawson saw george last night.|0|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Happy/0011_000922.wav|Ask god to help you.|0|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Happy/0011_000929.wav|The first year they sowed rye.|0|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Happy/0011_000954.wav|She laughed.|0|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Happy/0011_000970.wav|Chew leaves quickly, said rabbit.|0|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Happy/0011_001033.wav|You gain for nothing girl!|0|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Sad/0011_001297.wav|She and i are running a neck and neck race.|0|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Sad/0011_001301.wav|The ladybug told them proudly.|0|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Sad/0011_001312.wav|I believe you are one of them!|0|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Sad/0011_001375.wav|She has no place for hot peper .|0|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Surprise/0011_001419.wav|At the end of four.|0|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Surprise/0011_001444.wav|Take courage all isn't lost yet.|0|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Surprise/0011_001472.wav|How are you, dear child?|0|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Surprise/0011_001520.wav|Our King George is labourers.|0|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Surprise/0011_001552.wav|Guilty for what do you rule?|0|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Surprise/0011_001580.wav|Toast from the bread fruit tree.|0|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0011/Surprise/0011_001725.wav|She has no place for hot peper .|0|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Neutral/0012_000145.wav|Reed by the living pool!|1|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Neutral/0012_000165.wav|They were going fast, with a light clip.|1|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Neutral/0012_000232.wav|Will call her Lili, for short.|1|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Angry/0012_000359.wav|On the twenty second of last march.|1|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Angry/0012_000380.wav|Must a name mean something?|1|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Angry/0012_000506.wav|The eye could not catch them.|1|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Angry/0012_000571.wav|I am a selfish sinner.|1|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Angry/0012_000580.wav|Your own wife is not at home.|1|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Angry/0012_000641.wav|The end of february fourteenth.|1|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Happy/0012_000735.wav|The name really is the agedaged man.|1|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Happy/0012_000783.wav|Be off now as quick as you may!|1|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Happy/0012_000818.wav|Look out! said Alice.|1|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Happy/0012_001014.wav|Bob goes to a new school.|1|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Happy/0012_001042.wav|Why should I purchase my own?|1|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Sad/0012_001067.wav|Why has this egg not broken?|1|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Sad/0012_001136.wav|And tick a tack too.|1|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Sad/0012_001147.wav|Confess that you opened the thirteenth door.|1|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Sad/0012_001304.wav|She laughed.|1|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Sad/0012_001314.wav|Slam the doors and wedge them!|1|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Surprise/0012_001491.wav|We expected Tom would jump for joy.|1|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Surprise/0012_001545.wav|Reed by the living pool!|1|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Surprise/0012_001574.wav|I pay half a crown a week extra.|1|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Surprise/0012_001617.wav|You cruelty shall cost your life !|1|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Surprise/0012_001646.wav|We can not do it sir.|1|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Surprise/0012_001658.wav|Mum shuts one's mouth up, doesn't it.|1|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Surprise/0012_001690.wav|There goes the shawl again!|1|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0012/Surprise/0012_001733.wav|You gain for nothing girl!|1|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Neutral/0013_000097.wav|Confess that you opened the thirteenth door.|2|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Neutral/0013_000156.wav|The eye could not catch them.|2|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Neutral/0013_000171.wav|I say neither yea nor nay.|2|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Angry/0013_000396.wav|They'd never know I'd regular ran away.|2|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Angry/0013_000453.wav|The elephant and the carpenter is the longest.|2|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Angry/0013_000561.wav|From each cake, there sprang a huge dog.|2|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Angry/0013_000564.wav|what about this thing, sticky!|2|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Angry/0013_000575.wav|Her existence makes him pleasant.|2|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Angry/0013_000610.wav|As soon as she went in, there was disorder.|2|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Angry/0013_000616.wav|We may join with that power.|2|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Angry/0013_000671.wav|Called out the cloud.|2|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Happy/0013_000708.wav|That was his chief thought.|2|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Happy/0013_000755.wav|A deafening chirruping rent the air.|2|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Happy/0013_000876.wav|She just smiled calmly, mother knows that it is the best smile.|2|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Happy/0013_000908.wav|However, somebody killed something.|2|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Happy/0013_000964.wav|Slam the doors and wedge them!|2|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Happy/0013_000967.wav|Chapter eleven on the doorstep.|2|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Happy/0013_000969.wav|But show me now your map!|2|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Happy/0013_001028.wav|It would be a hard choice.|2|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Happy/0013_001035.wav|But things haven't change yet.|2|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Sad/0013_001052.wav|I did go, and made many prisoners.|2|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Sad/0013_001077.wav|Monster made a deep bow.|2|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Sad/0013_001156.wav|I guess it's a choice feast.|2|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Sad/0013_001226.wav|She just smiled calmly, mother knows that is the best smile.|2|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Sad/0013_001253.wav|I was not grabbed.|2|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Sad/0013_001295.wav|Do you think it's a woozle?|2|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Sad/0013_001314.wav|Slam the doors and wedge them!|2|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Sad/0013_001328.wav|I know you .|2|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Surprise/0013_001416.wav|Mister share man, I move for a division.|2|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Surprise/0013_001497.wav|Confess that you opened the thirteenth door.|2|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Surprise/0013_001534.wav|Rare rabbit had a little apron.|2|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Surprise/0013_001611.wav|From each cake, there sprang a huge dog.|2|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Surprise/0013_001682.wav|Alice I won't forget it again.|2|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0013/Surprise/0013_001735.wav|But things haven't change yet.|2|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Neutral/0014_000030.wav|Must a name mean something?|3|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Neutral/0014_000105.wav|He was killed by an arrow.|3|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Neutral/0014_000124.wav|You know, answers to the name of Tom's son.|3|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Neutral/0014_000183.wav|Fresh pain seized Paul's body.|3|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Neutral/0014_000211.wav|From each cake, there sprang a huge dog.|3|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Neutral/0014_000214.wav|But what about this thing, sticky!|3|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Neutral/0014_000250.wav|Her kind and firm glance.|3|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Angry/0014_000368.wav|Then sadly it is much farther.|3|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Angry/0014_000503.wav|But we are not high yet.|3|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Angry/0014_000505.wav|This speech roused dame ilse to anger.|3|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Angry/0014_000523.wav|He searched through the box.|3|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Happy/0014_000729.wav|Rat came and replied on the leaves.|3|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Happy/0014_000786.wav|And tick a tack too.|3|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Happy/0014_000811.wav|We nightly dance our heyday guise.|3|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Happy/0014_000877.wav|Tom fell with a cloven head.|3|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Happy/0014_000896.wav|Clear are your eyes and bright your breath!|3|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Happy/0014_000959.wav|The song is called Ways and Means.|3|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Happy/0014_001012.wav|Father has yellow eyes.|3|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Happy/0014_001045.wav|A whirring noise was heard.|3|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Sad/0014_001072.wav|And what are doves. And what are doves.|3|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Sad/0014_001183.wav|I smell the breath of an English.|3|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Sad/0014_001185.wav|I blinked my eyes hard.|3|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Sad/0014_001190.wav|What an impetuous boy he is!|3|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Sad/0014_001203.wav|But we are not high yet.|3|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Sad/0014_001350.wav|Six was half way down the room.|3|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Sad/0014_001400.wav|Do you have anything in mind?|3|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Surprise/0014_001441.wav|I chose the right way.|3|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Surprise/0014_001467.wav|I suppose no, it doesn't!|3|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Surprise/0014_001519.wav|The owl flew into a bush.|3|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Surprise/0014_001531.wav|It must come sometimes to jam a day.|3|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Surprise/0014_001546.wav|He said to Jack, the chatterer.|3|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Surprise/0014_001582.wav|Age forty five if a day a lie.|3|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Surprise/0014_001591.wav|I make her quite nervy at times.|3|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Surprise/0014_001660.wav|As soon as she went in, there was disorder.|3|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0014/Surprise/0014_001696.wav|You woke me up!|3|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Neutral/0015_000037.wav|I think it'll encourage me.|4|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Neutral/0015_000039.wav|Our thanks to God's oath.|4|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Neutral/0015_000070.wav|Tom now let our arrows fly!|4|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Neutral/0015_000143.wav|Pussy can sit by the fire and sing.|4|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Neutral/0015_000266.wav|We may join with that power.|4|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Neutral/0015_000271.wav|I say I will be emperor.|4|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Neutral/0015_000272.wav|No admittance except on party business.|4|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Neutral/0015_000275.wav|You shouldn't have pricked him with your horn.|4|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Angry/0015_000516.wav|They ate beef at the butcher shop.|4|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Angry/0015_000590.wav|Both side were softly curved.|4|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Angry/0015_000632.wav|Alice I won't forget it again.|4|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Angry/0015_000637.wav|A voice said: Come in.|4|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Angry/0015_000667.wav|At length they came to a sharp bend.|4|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Angry/0015_000670.wav|Goat Billy asked the old chinese guy.|4|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Angry/0015_000688.wav|Paul's teeth ached because of lemon.|4|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Happy/0015_000738.wav|Hold up my chin, slow and solid.|4|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Happy/0015_000782.wav|A fair jaw cracker dwarf language must be!|4|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Happy/0015_000931.wav|He told me that I ought to change.|4|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Happy/0015_000950.wav|Her kind and firm glance.|4|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Happy/0015_001021.wav|Called out the cloud.|4|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Sad/0015_001069.wav|At the end of four.|4|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Sad/0015_001106.wav|Your midget wife never can sing a song.|4|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Sad/0015_001165.wav|He might call it, for example.|4|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Sad/0015_001195.wav|Reed by the living pool!|4|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Sad/0015_001196.wav|He said to Jack, the chatterer.|4|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Sad/0015_001220.wav|But if you hadn't done them.|4|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Sad/0015_001247.wav|Fur flew through the air, teeth gnashed.|4|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Sad/0015_001295.wav|Do you think it's a woozle?|4|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Sad/0015_001360.wav|Why it is just like the round egg which sounds thin.|4|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Sad/0015_001368.wav|The name of the song is called haddocks.|4|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Surprise/0015_001420.wav|At the roots-of a bush of a grass.|4|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Surprise/0015_001533.wav|I smell the breath of an English.|4|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Surprise/0015_001565.wav|They were going fast, with a light clip.|4|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0015/Surprise/0015_001674.wav|Because he was a man with infinite resource and sagacity.|4|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Neutral/0016_000032.wav|Who is been repeating all that hard stuff to you?|5|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Neutral/0016_000045.wav|The nastiest things they saw were the cobwebs.|5|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Neutral/0016_000086.wav|And tick a tack too.|5|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Neutral/0016_000138.wav|But one requires the explorer to furnish proofs.|5|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Neutral/0016_000205.wav|Fear neither root nor sprout!|5|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Neutral/0016_000218.wav|I'll send for Tom to my boudoir.|5|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Neutral/0016_000278.wav|I know you .|5|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Neutral/0016_000297.wav|How Tom and Jerry went to visit mister Sam.|5|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Angry/0016_000360.wav|A nauseous draught.|5|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Angry/0016_000455.wav|He was killed by an arrow.|5|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Angry/0016_000520.wav|But if you hadn't done them.|5|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Angry/0016_000692.wav|Why should I purchase my own?|5|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Happy/0016_000796.wav|I don't painted tiger.|5|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Happy/0016_000844.wav|We all see panda on TV or in the zoo.|5|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Happy/0016_000866.wav|They ate beef at the butcher shop.|5|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Happy/0016_000967.wav|Chapter eleven on the doorstep.|5|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Sad/0016_001076.wav|Let's make the noise a snake.|5|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Sad/0016_001087.wav|I think it'll encourage me.|5|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Sad/0016_001189.wav|Cuckoos is down-headed and crying.|5|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Sad/0016_001192.wav|Wake now my merry tads!|5|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Sad/0016_001313.wav|She said in subdued voice.|5|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Sad/0016_001321.wav|I say I will be emperor.|5|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Sad/0016_001362.wav|Father has yellow eyes.|5|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Sad/0016_001370.wav|Goat Billy asked the old Chinese guy.|5|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Sad/0016_001384.wav|Another one, ten thousand dollars.|5|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Surprise/0016_001413.wav|I have bunburyed all over goat on two separate occasions.|5|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Surprise/0016_001489.wav|Let go of my top knot.|5|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Surprise/0016_001505.wav|He was killed by an arrow.|5|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Surprise/0016_001512.wav|Clown, to call him joey.|5|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Surprise/0016_001536.wav|She has eaten the tapioca all of it.|5|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Surprise/0016_001628.wav|It says no way! shouted Daisy.|5|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Surprise/0016_001704.wav|How do you like you dirty bird!|5|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Surprise/0016_001711.wav|I am safe back again.|5|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0016/Surprise/0016_001728.wav|It would be a hard choice.|5|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Neutral/0017_000039.wav|Our thanks to God's oath.|6|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Neutral/0017_000042.wav|She may mind ye of her.|6|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Neutral/0017_000111.wav|We nightly dance our heyday guise.|6|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Neutral/0017_000127.wav|Cos I know I had some honey.|6|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Neutral/0017_000153.wav|But we are not high yet.|6|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Neutral/0017_000159.wav|Such tunes are joy to a dancing fay.|6|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Neutral/0017_000172.wav|I shall say good bye.|6|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Neutral/0017_000186.wav|She jump at the tail and bite it savagely.|6|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Neutral/0017_000206.wav|Still you owe it a duty.|6|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Neutral/0017_000213.wav|Let it give us a chance, my precious.|6|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Neutral/0017_000220.wav|Her paw went into your eye?|6|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Neutral/0017_000273.wav|I'd just as soon swim your way as others do.|6|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Neutral/0017_000281.wav|He could not help doing so.|6|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Neutral/0017_000292.wav|She has a high voice.|6|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Neutral/0017_000313.wav|Give me a fine fat goose.|6|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Angry/0017_000426.wav|The hag looked in the stove.|6|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Angry/0017_000453.wav|The elephant and the carpenter is the longest.|6|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Angry/0017_000556.wav|Still you owe it a duty.|6|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Angry/0017_000568.wav|I'll send for Tom to my boudoir.|6|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Angry/0017_000586.wav|How rash you are!|6|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Angry/0017_000649.wav|His hope will cheat him.|6|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Angry/0017_000673.wav|Why did I wake up!|6|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Happy/0017_000774.wav|Come on my jack in the boxes!|6|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Happy/0017_000788.wav|In my opinion that is a good idea!|6|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Happy/0017_000790.wav|And they did push so!|6|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Happy/0017_000866.wav|They ate beef at the butcher shop.|6|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Happy/0017_000876.wav|She just smiled calmly, mother knows that is the best smile.|6|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Sad/0017_001079.wav|Rat came and replied on the leaves.|6|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Sad/0017_001108.wav|The octopus has eight legs.|6|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Sad/0017_001159.wav|If they mother knew it.|6|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Sad/0017_001163.wav|Mister Lawson saw George last night.|6|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Sad/0017_001286.wav|How rash you are!|6|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Sad/0017_001314.wav|Slam the doors and wedge them!|6|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Sad/0017_001390.wav|So Tom saw night as it were broad daylight.|6|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Surprise/0017_001439.wav|Our thanks to God's oath.|6|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Surprise/0017_001490.wav|And they did push so!|6|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Surprise/0017_001494.wav|They found a cow grazing in a field.|6|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Surprise/0017_001522.wav|Am I an absolute pauper?|6|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Surprise/0017_001566.wav|They ate beef at the butcher shop.|6|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Surprise/0017_001612.wav|No thank you.|6|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Surprise/0017_001636.wav|How rash you are!|6|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0017/Surprise/0017_001741.wav|Enough,you a foolish chatter.|6|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Neutral/0018_000004.wav|They went up to the dark mass job had pointed out.|7|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Neutral/0018_000106.wav|I guess it's a choice feast.|7|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Neutral/0018_000115.wav|He might call it, for example.|7|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Neutral/0018_000121.wav|Finn and the fairy shoemaker.|7|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Neutral/0018_000197.wav|Fur flew through the air, teeth gnashed.|7|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Neutral/0018_000223.wav|Pick, pick, pick!|7|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Neutral/0018_000311.wav|I am safe back again.|7|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Angry/0018_000462.wav|Clown, to call him joey.|7|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Angry/0018_000505.wav|This speech roused dame ilse to anger.|7|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Angry/0018_000510.wav|Kitty, can you play chess?|7|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Angry/0018_000559.wav|A raging fire was in his eyes.|7|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Angry/0018_000596.wav|We can not do it sir.|7|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Angry/0018_000617.wav|Chapter eleven on the doorstep.|7|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Angry/0018_000619.wav|But show me now your map!|7|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Angry/0018_000663.wav|Give me a fine fat goose.|7|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Angry/0018_000684.wav|Another one, ten thousand dollars.|7|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Happy/0018_000709.wav|On the twenty second of last march.|7|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Happy/0018_000847.wav|And there you'll find a snap dragon fly.|7|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Happy/0018_000880.wav|Toast from the bread fruit tree.|7|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Sad/0018_001361.wav|I am safe back again.|7|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Surprise/0018_001421.wav|As rich as Peter's son in law!|7|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0018/Surprise/0018_001615.wav|He likes dragons very much.|7|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Neutral/0019_000040.wav|In which fox loses a tail and its elder sister finds one.|8|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Neutral/0019_000064.wav|And we are so thirsty!|8|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Neutral/0019_000107.wav|Tom and Michael woke up next morning.|8|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Neutral/0019_000137.wav|Let the glass globe be.|8|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Neutral/0019_000155.wav|This speech roused dame ilse to anger.|8|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Neutral/0019_000271.wav|I say I will be emperor.|8|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Neutral/0019_000315.wav|It's to say how do you do with Tom's answer.|8|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Angry/0019_000615.wav|I've just shot a stag.|8|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Angry/0019_000630.wav|Your path now goes south.|8|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Angry/0019_000668.wav|The name of the song is called haddocks.|8|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Happy/0019_000812.wav|Clown, to call him joey.|8|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Happy/0019_000813.wav|Mister lawson saw george last night.|8|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Happy/0019_000958.wav|Mum shuts one's mouth up, doesn't it.|8|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Happy/0019_000989.wav|No, said piggy carelessly.|8|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Happy/0019_000991.wav|The end of february fourteenth.|8|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Sad/0019_001053.wav|That I owe my thanks to you.|8|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Sad/0019_001077.wav|Monster made a deep bow.|8|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Sad/0019_001120.wav|Tom now let our arrows fly!|8|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Sad/0019_001133.wav|Be off now as quick as you may!|8|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Sad/0019_001284.wav|Hurry up, hurry up!|8|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Sad/0019_001311.wav|After a while he perceived both giants.|8|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Sad/0019_001352.wav|Five hundred and one million right?|8|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Sad/0019_001354.wav|How do you like you dirty bird!|8|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Surprise/0019_001451.wav|Said the American to Chinese.|8|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Surprise/0019_001467.wav|I suppose no, it doesn't!|8|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Surprise/0019_001591.wav|I make her quite nervy at times.|8|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Surprise/0019_001604.wav|The song is really louding on a gate.|8|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0019/Surprise/0019_001721.wav|Called out the cloud.|8|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Neutral/0020_000032.wav|Who is been repeating all that hard stuff to you?|9|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Neutral/0020_000086.wav|And tick a tack too.|9|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Neutral/0020_000093.wav|To buy two pork chops.|9|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Neutral/0020_000094.wav|They found a cow grazing in a field.|9|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Neutral/0020_000209.wav|A raging fire was in his eyes.|9|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Neutral/0020_000249.wav|You may imagine how I gape.|9|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Neutral/0020_000280.wav|Your path now goes south.|9|0
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Angry/0020_000491.wav|Can I lodge here tonight?|9|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Angry/0020_000541.wav|I make her quite nervy at times.|9|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Angry/0020_000574.wav|Do you know the lid opens?|9|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Angry/0020_000599.wav|You may imagine how I gape.|9|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Angry/0020_000601.wav|The ladybug told them proudly.|9|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Angry/0020_000621.wav|I say I will be emperor.|9|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Angry/0020_000658.wav|Perhaps you think that is a queer title for this chapter.|9|1
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Happy/0020_000769.wav|Not much use is it, Sam?|9|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Happy/0020_000862.wav|I lent George three pounds.|9|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Happy/0020_000903.wav|I was not grabbed.|9|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Happy/0020_000915.wav|He likes dragons very much.|9|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Happy/0020_001006.wav|Please invite Tom if there is not requires.|9|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Happy/0020_001035.wav|But things haven't change yet.|9|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Happy/0020_001040.wav|So Tom saw night as it were broad daylight.|9|2
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Sad/0020_001056.wav|Andy what's the gyre and to gimble.|9|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Sad/0020_001320.wav|Chew leaves quickly, said rabbit.|9|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Sad/0020_001349.wav|His hope will cheat him.|9|3
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Surprise/0020_001422.wav|And what are doves. And what are doves.|9|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Surprise/0020_001435.wav|The name really is the aged aged man.|9|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Surprise/0020_001552.wav|Guilty for what do you rule?|9|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Surprise/0020_001561.wav|That's a full grown colt.|9|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Surprise/0020_001626.wav|And the next day. Nurse will be released.|9|4
+/home/omnilogic/datasets/EmotionalSpeechDataset/0020/Surprise/0020_001731.wav|She'll be feverish after so much thinking.|9|4
