@@ -23,8 +23,8 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=False,
-        training_files='filelists/ms_kor_train.txt',
-        validation_files='filelists/ms_kor_val.txt',
+        training_files='filelists/emotional_train.txt',
+        validation_files='filelists/emotional_val.txt',
         text_cleaners=['korean_cleaners'], # english_cleaners, korean_cleaners
         sort_by_length=False,
 
